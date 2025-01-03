@@ -1,7 +1,7 @@
 import { HomeIcon, File, UsersRound } from "lucide-react";
 import Link from "next/link";
 import { NavButton } from "@/components/NavButton";
-import { ModeToggle } from "./ModeToggle";
+import { ModeToggle } from "@/components/ModeToggle";
 
 export function Header() {
   return (
